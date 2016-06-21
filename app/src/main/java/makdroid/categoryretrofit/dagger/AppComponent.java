@@ -3,7 +3,7 @@ package makdroid.categoryretrofit.dagger;
 import javax.inject.Singleton;
 
 import dagger.Component;
-import makdroid.categoryretrofit.MainActivity;
+import makdroid.categoryretrofit.ui.MainActivity;
 import makdroid.categoryretrofit.database.prefs.UserPrefMaster;
 import makdroid.categoryretrofit.services.DownloadIntentService;
 import makdroid.categoryretrofit.ui.CategoryDetailsFragment;

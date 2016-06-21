@@ -1,4 +1,4 @@
-package makdroid.categoryretrofit;
+package makdroid.categoryretrofit.ui;
 
 import android.content.Intent;
 import android.os.AsyncTask;
@@ -26,6 +26,8 @@ import javax.inject.Inject;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
+import makdroid.categoryretrofit.CategoryRetrofitApplication;
+import makdroid.categoryretrofit.R;
 import makdroid.categoryretrofit.adapters.CategoryAdapter;
 import makdroid.categoryretrofit.adapters.EndlessRecyclerViewOnScrollListener;
 import makdroid.categoryretrofit.adapters.RecyclerItemClickListener;
