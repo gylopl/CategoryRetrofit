@@ -1,0 +1,581 @@
+{
+  "total": 10,
+  "rows": [
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": {
+        "id": 19,
+        "uniqueId": "240b02f2-ce09-4e58-9a0b-07b1bdb14cd2",
+        "filePath": "images/demo/menucategory/alcohols.jpg",
+        "createDate": {
+          "dayOfYear": 160,
+          "year": 2016,
+          "month": "JUNE",
+          "monthValue": 6,
+          "dayOfMonth": 8,
+          "hour": 17,
+          "minute": 43,
+          "second": 37,
+          "nano": 0,
+          "dayOfWeek": "WEDNESDAY",
+          "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+          }
+        },
+        "defaultImage": true,
+        "filePathSmall": "images/demo/menucategory/small/alcohols.jpg"
+      },
+      "id": 11,
+      "uniqueId": "4c764091-6fac-4de4-98f5-e811b1c42a40",
+      "name": "Alkohole",
+      "label": "",
+      "color": "#593c02",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": {
+        "id": 13,
+        "uniqueId": "19b8f98f-af46-4675-b888-913ec6db4d5d",
+        "filePath": "images/demo/menucategory/mainDishes.jpg",
+        "createDate": {
+          "dayOfYear": 160,
+          "year": 2016,
+          "month": "JUNE",
+          "monthValue": 6,
+          "dayOfMonth": 8,
+          "hour": 17,
+          "minute": 43,
+          "second": 37,
+          "nano": 0,
+          "dayOfWeek": "WEDNESDAY",
+          "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+          }
+        },
+        "defaultImage": true,
+        "filePathSmall": "images/demo/menucategory/small/mainDishes.jpg"
+      },
+      "id": 5,
+      "uniqueId": "a31a1829-dc98-4791-acd3-6c5726218d50",
+      "name": "Dania główne",
+      "label": "",
+      "color": "#b21212",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": {
+        "id": 12,
+        "uniqueId": "84b47735-da2a-491a-bb0c-a6b8ff33d893",
+        "filePath": "images/demo/menucategory/desserts.jpg",
+        "createDate": {
+          "dayOfYear": 160,
+          "year": 2016,
+          "month": "JUNE",
+          "monthValue": 6,
+          "dayOfMonth": 8,
+          "hour": 17,
+          "minute": 43,
+          "second": 37,
+          "nano": 0,
+          "dayOfWeek": "WEDNESDAY",
+          "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+          }
+        },
+        "defaultImage": true,
+        "filePathSmall": "images/demo/menucategory/small/desserts.jpg"
+      },
+      "id": 4,
+      "uniqueId": "599e42b0-99a2-4d75-8984-3c8fbc7acfc6",
+      "name": "Desery",
+      "label": "",
+      "color": "#a62ee7",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": {
+        "id": 18,
+        "uniqueId": "ef3ef4b2-b3fe-4962-a046-f97402e8f4ae",
+        "filePath": "images/demo/menucategory/drinks.jpg",
+        "createDate": {
+          "dayOfYear": 160,
+          "year": 2016,
+          "month": "JUNE",
+          "monthValue": 6,
+          "dayOfMonth": 8,
+          "hour": 17,
+          "minute": 43,
+          "second": 37,
+          "nano": 0,
+          "dayOfWeek": "WEDNESDAY",
+          "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+          }
+        },
+        "defaultImage": true,
+        "filePathSmall": "images/demo/menucategory/small/drinks.jpg"
+      },
+      "id": 10,
+      "uniqueId": "30e148c9-5bb3-4629-982d-0bb1792b8b56",
+      "name": "Napoje",
+      "label": "",
+      "color": "#4ab301",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": null,
+      "id": 12,
+      "uniqueId": "1f3dcffe-c11b-4475-bac1-cb20c88d6da4",
+      "name": "Papierosy",
+      "label": "",
+      "color": "#0c8001",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": {
+        "id": 14,
+        "uniqueId": "adba642f-e4cc-4924-a465-8c05b6935b9a",
+        "filePath": "images/demo/menucategory/pizza.jpg",
+        "createDate": {
+          "dayOfYear": 160,
+          "year": 2016,
+          "month": "JUNE",
+          "monthValue": 6,
+          "dayOfMonth": 8,
+          "hour": 17,
+          "minute": 43,
+          "second": 37,
+          "nano": 0,
+          "dayOfWeek": "WEDNESDAY",
+          "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+          }
+        },
+        "defaultImage": true,
+        "filePathSmall": "images/demo/menucategory/small/pizza.jpg"
+      },
+      "id": 6,
+      "uniqueId": "f81acb77-31ed-431d-a792-ad12f853662a",
+      "name": "Pizza",
+      "label": "",
+      "color": "#e7467c",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": {
+        "id": 17,
+        "uniqueId": "26377998-1e05-4f44-8fc8-2c5873338f77",
+        "filePath": "images/demo/menucategory/appetizers.jpg",
+        "createDate": {
+          "dayOfYear": 160,
+          "year": 2016,
+          "month": "JUNE",
+          "monthValue": 6,
+          "dayOfMonth": 8,
+          "hour": 17,
+          "minute": 43,
+          "second": 37,
+          "nano": 0,
+          "dayOfWeek": "WEDNESDAY",
+          "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+          }
+        },
+        "defaultImage": true,
+        "filePathSmall": "images/demo/menucategory/small/appetizers.jpg"
+      },
+      "id": 9,
+      "uniqueId": "efb37b8c-b910-493e-89c8-6013a45c7329",
+      "name": "Przystawki",
+      "label": "",
+      "color": "#e5c000",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": {
+        "id": 16,
+        "uniqueId": "247119f9-9144-43da-9be1-c0eb63a8788a",
+        "filePath": "images/demo/menucategory/salads.jpg",
+        "createDate": {
+          "dayOfYear": 160,
+          "year": 2016,
+          "month": "JUNE",
+          "monthValue": 6,
+          "dayOfMonth": 8,
+          "hour": 17,
+          "minute": 43,
+          "second": 37,
+          "nano": 0,
+          "dayOfWeek": "WEDNESDAY",
+          "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+          }
+        },
+        "defaultImage": true,
+        "filePathSmall": "images/demo/menucategory/small/salads.jpg"
+      },
+      "id": 8,
+      "uniqueId": "c441c200-1f13-42ef-ac2d-4b26c701ed12",
+      "name": "Surówki",
+      "label": "",
+      "color": "#2a52cb",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": null,
+      "id": 13,
+      "uniqueId": "89084bf9-a580-477b-a4f1-9f9d2959f51f",
+      "name": "Zestawy obiadowe",
+      "label": "",
+      "color": "#e5c000",
+      "deleted": false
+    },
+    {
+      "venue": {
+        "uniqueId": "f6ae7e83-79e4-45d8-bb61-3eb3798c9db9",
+        "id": 5,
+        "alias": "PartnerDemoRestauracja31",
+        "address": {
+          "street": "",
+          "buildNr": "",
+          "flatNr": "",
+          "zipCode": "",
+          "city": "",
+          "country": ""
+        },
+        "name": "PartnerDemoRestauracja3",
+        "defaultOpenHours": 8
+      },
+      "lastEditDate": {
+        "dayOfYear": 160,
+        "year": 2016,
+        "month": "JUNE",
+        "monthValue": 6,
+        "dayOfMonth": 8,
+        "hour": 17,
+        "minute": 43,
+        "second": 37,
+        "nano": 0,
+        "dayOfWeek": "WEDNESDAY",
+        "chronology": {
+          "calendarType": "iso8601",
+          "id": "ISO"
+        }
+      },
+      "image": {
+        "id": 15,
+        "uniqueId": "0ec36196-1289-4d60-9e5a-ff493c0547a8",
+        "filePath": "images/demo/menucategory/soups.jpg",
+        "createDate": {
+          "dayOfYear": 160,
+          "year": 2016,
+          "month": "JUNE",
+          "monthValue": 6,
+          "dayOfMonth": 8,
+          "hour": 17,
+          "minute": 43,
+          "second": 37,
+          "nano": 0,
+          "dayOfWeek": "WEDNESDAY",
+          "chronology": {
+            "calendarType": "iso8601",
+            "id": "ISO"
+          }
+        },
+        "defaultImage": true,
+        "filePathSmall": "images/demo/menucategory/small/ósoups.jpg"
+      },
+      "id": 7,
+      "uniqueId": "98f9a5c3-e184-47ed-8724-7c02c50ced50",
+      "name": "Zupy",
+      "label": "",
+      "color": "#13b0bf",
+      "deleted": false
+    }
+  ]
+}

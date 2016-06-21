@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CategoryRetrofit</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_open">Open</string>
+    <string name="action_ok">OK</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_download">Download</string>
+    <string name="action_download_cancel">Cancel download</string>
+
+    <string name="error_no_internet">Internet not available, Cross check your internet connectivity and try again</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="message_saved">Save successfull</string>
+    <string name="category_name">category_name</string>
+</resources>
