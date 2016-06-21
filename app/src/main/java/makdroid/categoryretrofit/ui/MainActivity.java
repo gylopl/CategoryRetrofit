@@ -166,7 +166,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Subscribe
     public void onDownloadCategoriesFromDbResult(AddCategoryFromDbEvent event) {
-        Toast.makeText(this, "Lista zaktualizowanaa", Toast.LENGTH_LONG).show();
+        Toast.makeText(this, "Lista zaktualizowanaa", Toast.LENGTH_SHORT).show();
         categoriesDb.addAll(event.getCategoryList());
         adapter.notifyItemRangeInserted(event.getCurSize(), categoriesDb.size() - 1);
     }
