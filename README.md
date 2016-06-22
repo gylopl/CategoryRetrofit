@@ -7,5 +7,7 @@ retrofit
 picasso
 otto
 
+recyclerview with endless scrolling
+
 
 [![VIDEOHERE](https://img.youtube.com/vi/fK9pK2V3OA0/0.jpg)](https://www.youtube.com/watch?v=fK9pK2V3OA0)
